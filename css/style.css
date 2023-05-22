@@ -15,7 +15,7 @@
 }
 
 .title-container{
-    margin-left: 8px;
+    margin: 8px 8px;
 }
 
 h1{
@@ -34,4 +34,53 @@ h1{
 
 .data-info{
     font-size: 15px;
+}
+
+main{
+    margin: 8px 8px;
+    font-size: 20px;
+}
+
+#tim-image1, #tim-image2{
+    width: 48%;
+    height: 550px;
+    object-fit: cover;
+}
+
+.image-caption{
+    font-size: 15px;
+}
+
+#paragraph-1{
+    margin: 30px 0px;
+}
+
+th{
+    text-align: left;
+    color: white;
+}
+
+#column-1, #column-2{
+    width: 25%;
+}
+
+.table-head{
+    background-color: rgb(32, 169, 229);
+}
+
+table{
+    border-collapse: collapse;
+    margin: 30px 0px;
+}
+
+tbody{
+    height: 200px;
+}
+
+#row-1, #row-3{
+    background-color: rgb(177, 229, 242);
+}
+
+.highlight{
+    background-color: yellow;
 }
