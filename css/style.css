@@ -12,6 +12,8 @@
 
 #logo-img{
     width: 16%;
+    padding-top: 74px;
+    padding-left: 8px;
 }
 
 .title-container{
@@ -36,6 +38,8 @@ h1{
     font-size: 15px;
 }
 
+
+/* Main Style */
 main{
     margin: 8px 8px;
     font-size: 20px;
@@ -83,4 +87,37 @@ tbody{
 
 .highlight{
     background-color: yellow;
+}
+
+/* Footer style */
+footer{
+    margin: 8px 8px;
+    font-size: 16px;
+}
+
+h3{
+    color: grey;
+    margin-top: 32px;
+}
+
+.footer-image1{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px;
+    background-image: url("../img/monitor.jpg");
+    width: 270px;
+    height: 200px;
+    margin: 10px 0px;
+}
+
+.footer-image2{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px;
+    background-image: url("../img/graph.jpg");
+    width: 270px;
+    height: 200px;
+    margin: 10px 0px;
 }
