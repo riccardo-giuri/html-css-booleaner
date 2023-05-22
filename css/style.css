@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+/* Header Style */
+.logo-container{
+    background-image: url("../img/pattern.png");
+    background-color: rgb(78, 160, 255);
+    height: 160px;
+}
+
+#logo-img{
+    width: 16%;
+}
+
+.title-container{
+    margin-left: 8px;
+}
+
+h1{
+    font-size: 65px;
+    margin-top: 22px;
+}
+
+.write-info{
+    font-size: 21px;
+    color: grey;
+}
+
+#author{
+    color: rgb(55, 177, 231);
+}
+
+.data-info{
+    font-size: 15px;
+}
